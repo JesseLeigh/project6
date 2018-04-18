@@ -1,1 +1,2 @@
 # project6
+I made this full image background pge about horses. In the uper left hand part of the page I added a rotating text fuction to rotate words that describe horses. Under that I wrote why horses are amazing. In the bottom right part of the page I put my name. In the uper right of the page describes how horses are measured. If you don't know what the unit of measurment is for the horse then all you have to do is hover over the words that have a black background around it. If you hover over thoes word then I put in the css that it will give a description. 
